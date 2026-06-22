@@ -1,0 +1,99 @@
+# SYSTEM REQUIREMENTS
+
+## Hardware Requirements
+
+### Minimum Requirements
+
+* Processor: Intel Core i3
+* RAM: 4 GB
+* Storage: 500 MB Free Space
+* Display: 1024 x 768 Resolution
+
+### Recommended Requirements
+
+* Processor: Intel Core i5 or higher
+* RAM: 8 GB or higher
+* Storage: 1 GB Free Space
+* Display: 1366 x 768 or higher
+
+---
+
+## Software Requirements
+
+### Operating System
+
+* Windows 10
+* Windows 11
+* Linux
+* macOS
+
+### Programming Language
+
+* Python 3.10+
+
+### Python Libraries
+
+* tkinter
+* json
+* os
+* datetime
+* ttk
+* messagebox
+
+---
+
+## Functional Requirements
+
+The system shall:
+
+1. Allow user login.
+2. Allow user registration.
+3. Add students.
+4. Add teachers.
+5. Create classes.
+6. Record attendance.
+7. Record grades.
+8. Record fee payments.
+9. Search records.
+10. Save records permanently.
+
+---
+
+## Non-Functional Requirements
+
+### Security
+
+* User authentication
+* Role-based access
+
+### Reliability
+
+* Automatic data saving
+
+### Usability
+
+* User-friendly interface
+
+### Performance
+
+* Fast data retrieval
+
+### Maintainability
+
+* Modular function design
+
+---
+
+## Data Storage Requirement
+
+File Name:
+
+edumaster_data.json
+
+Storage Format:
+
+JSON
+
+Purpose:
+
+Store all school records permanently.
