@@ -1,0 +1,128 @@
+# SYSTEM EXPLANATION
+
+## Introduction
+
+The EduMaster School Management System is a computerized school administration system designed to improve the management of student records, attendance, grades, teachers, classes, and fee payments.
+
+The system reduces manual paperwork and provides a centralized platform for school operations.
+
+---
+
+## Input
+
+The system accepts:
+
+* Student Information
+* Teacher Information
+* Attendance Records
+* Grades
+* Fee Payments
+* User Login Credentials
+
+---
+
+## Processing
+
+The system processes:
+
+* User Authentication
+* Student Registration
+* Attendance Tracking
+* Grade Calculation
+* Fee Recording
+* Database Storage
+
+---
+
+## Output
+
+The system generates:
+
+* Student Lists
+* Attendance Reports
+* Grade Reports
+* Fee Reports
+* Dashboard Statistics
+
+---
+
+## Database Structure
+
+The system stores information in JSON format.
+
+Collections include:
+
+* Users
+* Students
+* Teachers
+* Classes
+* Attendance
+* Grades
+* Fees
+
+---
+
+## Structured Programming Concepts Used
+
+### Functions
+
+Examples:
+
+* load_data()
+* save_data()
+* handle_login()
+* handle_signup()
+* add_student()
+* add_teacher()
+
+### Decision Structures
+
+Examples:
+
+* if statements
+* if-else conditions
+* validation checks
+
+### Loops
+
+Examples:
+
+* for loops
+* data iteration
+
+### Lists
+
+Used for storing:
+
+* Students
+* Teachers
+* Attendance
+* Grades
+* Fees
+
+### Dictionaries
+
+Used to store records such as:
+
+{
+"id": "STU001",
+"name": "Aminata Kamara"
+}
+
+### File Handling
+
+Used for:
+
+* Reading JSON files
+* Writing JSON files
+
+---
+
+## Benefits
+
+* Faster record management
+* Improved accuracy
+* Easy searching
+* Better reporting
+* Reduced paperwork
+* Centralized data storage
